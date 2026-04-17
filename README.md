@@ -1,3 +1,3 @@
-# vedema.github.io
+https://github.com/Rakshu-2004/Data-Analytics-Project/settings/pages
 
-Week 0 setup completed by Vivian Edema
+This is my Data Analytics Portfolio project.
